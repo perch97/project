@@ -20,7 +20,7 @@ const answers = [];
 
 // const name = "Vadim";
 
-// alert(`Hi${name}`);
+alert(`Hi${name}`);
 // console.log(2*4===+'8');
 
 const isChecked = true;
